@@ -4,7 +4,7 @@
 
 This is a starter Java web application with JSP front-end. It is based on the newer [Spring][httpSpring.io] "Java config annotations", rather than XML configuration(or even the mixed "XML configuration with annotations"). 
 
-Unit tests have been added
+Unit tests have been added. Continuation from [httpSpring-login-annot]
 
 ### PROJECT ATTRIBUTES:
 - In-memory authentication(later projects will show JDBC or LDAP authentication)
@@ -100,6 +100,7 @@ MIT
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
+   [httpSpring-login-annot]: <https://github.com/dantullis/spring-login-annot>
    [httpSpring.io]: <https://spring.io/>
    [httpSpringToolSuite]: <https://spring.io/tools>
    [httpMavenRepo]: <http://mvnrepository.com/>
