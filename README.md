@@ -2,6 +2,9 @@
 
 [![Build Status](https://travis-ci.org/dantullis/spring-login-annot-2.svg?branch=master)](https://travis-ci.org/dantullis/spring-login-annot-2)
 
+[![Coverage Status](https://coveralls.io/repos/github/dantullis/spring-login-annot-2/badge.svg?branch=master)](https://coveralls.io/github/dantullis/spring-login-annot-2?branch=master)
+
+
 This is a starter Java web application with JSP front-end. It is based on the newer [Spring][httpSpring.io] "Java config annotations", rather than XML configuration(or even the mixed "XML configuration with annotations"). 
 
 Unit tests have been added. Continuation from [httpSpring-login-annot]
