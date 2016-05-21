@@ -1,7 +1,6 @@
 # Java Spring Annotation Based Project with Custom Login(CSRF protected) and unit tests.
 
 [![Build Status](https://travis-ci.org/dantullis/spring-login-annot-2.svg?branch=master)](https://travis-ci.org/dantullis/spring-login-annot-2)
-
 [![Coverage Status](https://coveralls.io/repos/github/dantullis/spring-login-annot-2/badge.svg?branch=master)](https://coveralls.io/github/dantullis/spring-login-annot-2?branch=master)
 
 
