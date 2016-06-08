@@ -18,7 +18,7 @@ Unit tests have been added. Continuation from [httpSpring-login-annot]
 - Unit tests
 
 ### TOOLING REQUIREMENTS:
-- Download and install the Java JDK. Not the SE or JRE versions.
+- Download and install the Java JDK SE. Not the JRE version.
 - Download and install Spring Tool Suite. It is based on the Eclipse IDE
 
 ### TOOL DOWNLOAD URLs:
